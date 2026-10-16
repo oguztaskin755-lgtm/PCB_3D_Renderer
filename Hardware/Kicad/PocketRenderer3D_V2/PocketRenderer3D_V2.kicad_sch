@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "468da11f-9031-4917-97df-205bf6a09a9b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 86.36 25.4)
+		(size 52.07 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "32ab7d7d-d8d8-484b-8e21-76c874d8dd58")
+		(property "Sheetname" "Renderer_PowerSupply"
+			(at 86.36 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "renderer_powerSupply.kicad_sch"
+			(at 86.36 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PocketRenderer3D_V2"
+				(path "/468da11f-9031-4917-97df-205bf6a09a9b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 146.05 25.4)
+		(size 54.61 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6e680e26-35d4-427a-9bbf-7df0ef65c277")
+		(property "Sheetname" "Renderer_Screen"
+			(at 146.05 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "renderer_screen.kicad_sch"
+			(at 146.05 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PocketRenderer3D_V2"
+				(path "/468da11f-9031-4917-97df-205bf6a09a9b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 25.4)
+		(size 58.42 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7243bd2-6a49-4acd-b2f8-0afbdf156c95")
+		(property "Sheetname" "Renderer_Input"
+			(at 210.82 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "renderer_input.kicad_sch"
+			(at 210.82 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PocketRenderer3D_V2"
+				(path "/468da11f-9031-4917-97df-205bf6a09a9b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 50.8 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f26b8140-2074-4f78-ba56-e191376f48a2")
+		(property "Sheetname" "Render_MCU"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "renderer_mcu.kicad_sch"
+			(at 25.4 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PocketRenderer3D_V2"
+				(path "/468da11f-9031-4917-97df-205bf6a09a9b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
